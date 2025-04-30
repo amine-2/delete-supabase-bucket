@@ -18,6 +18,13 @@ Or install locally:
 npm install --save-dev delete-supabase-bucket
 
 ```
+And use:
+
+```bash
+
+npx delete-bucket my-bucket
+
+```
 
 ## 🔧 Setup
 
