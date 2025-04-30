@@ -1,6 +1,6 @@
 {
   "name": "delete-supabase-bucket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to delete Supabase buckets and their contents",
   "bin": {
     "delete-bucket": "bin/delete-bucket.js"
