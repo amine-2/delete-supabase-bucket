@@ -1,0 +1,18 @@
+{
+  "name": "delete-supabase-bucket",
+  "version": "1.0.0",
+  "description": "CLI tool to delete Supabase buckets and their contents",
+  "bin": {
+    "delete-bucket": "bin/delete-bucket.js"
+  },
+  "keywords": ["supabase", "cli", "bucket", "storage", "delete"],
+  "author": "Zenati Mohammed El-Amine",
+  "license": "MIT",
+  
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
+
